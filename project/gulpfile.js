@@ -1,5 +1,6 @@
 const gulp = require("gulp");
 const jshint = require("gulp-jshint");
+const nodemon = require("gulp-nodemon");
 
 const jsFiles = ["*.js", "src/**/*.js"];
 
