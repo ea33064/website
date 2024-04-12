@@ -8,6 +8,7 @@ const port = process.env.PORT || 3000;
 
 app.use(express.static("public"));
 app.use(express.static("src/views"));
+app.use(express.static("bower_components"));
 
 app.get("/", (req, res) => {
   res.send("Hello Friends!");
