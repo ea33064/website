@@ -1,5 +1,9 @@
 Eric Alexis
 
+Close yarn terminal 
+open new terminal
+cd to project folder
+In terminal "npm start" to run application
 
 Host Website
 https://3q2x48-3000.csb.app/
